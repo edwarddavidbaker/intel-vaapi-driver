@@ -1022,10 +1022,10 @@ const unsigned int gen9_avc_hme_combine_len[PRESET_NUM] = {
 };
 
 const unsigned int gen9_avc_search_x[PRESET_NUM] = {
-    0, 48, 48, 48, 48, 48, 48, 28
+    0, 48, 48, 48, 48, 48, 48, 48
 };
 const unsigned int gen9_avc_search_y[PRESET_NUM] = {
-    0, 40, 40, 40, 40, 40, 40, 28
+    0, 40, 40, 40, 40, 40, 40, 40
 };
 
 const unsigned int gen9_avc_b_search_x[PRESET_NUM] = {
